@@ -17,7 +17,7 @@ fetch(URL)
     // JSON 데이터로 카드 생성
     data.forEach((item) => {
       const a = document.createElement("a");
-      a.href = "#";
+      a.href = "sub.html";
 
       const card = document.createElement("div");
       card.className = "product-card";

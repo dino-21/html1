@@ -12,7 +12,7 @@ async function loadNewBanchan() {
 
   data.forEach((item) => {
     const a = document.createElement("a");
-    a.href = "#";
+    a.href = "sub.html";
 
     const card = document.createElement("div");
     card.className = "product-card";

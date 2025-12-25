@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   //04_mdbanchan.json + multi tap
   function createMdCard(item) {
     const a = document.createElement("a");
-    a.href = "#";
+    a.href = "sub.html";
 
     const card = document.createElement("div");
     card.className = "md-card";
