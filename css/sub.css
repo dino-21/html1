@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+/*sub */
+.sub {
+  min-height: 600px;
+  width: 1200px;
+  background-color: aqua;
+  /* 나중에 콘텐츠 늘어남 */
+}
